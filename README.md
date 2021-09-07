@@ -32,7 +32,7 @@ One of the big reasons why London is my **favourite city** in the world is becau
  Here's the list of few famous food items in Hyderabad which Hyderabadies love to have....!!!
 
 
-|#######Items|####Places|####Prices|
+|Items|Places|Prices|
 | ----- | ----- | ----- |
 | RamkiBandi |Nampally | Rs.100 |
 | Burger | MCD | Rs.60 |
