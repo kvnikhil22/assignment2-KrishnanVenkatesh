@@ -32,11 +32,11 @@ One of the big reasons why London is my **favourite city** in the world is becau
  Here's the list of few famous food items in Hyderabad which Hyderabadies love to have....!!!
 
 |####Items |####Places |####Prices |
-| ------- | -------- | -------- |
+| ----- | ----- | ----- |
 | RamkiBandi |Nampally | Rs.100 |
-| Burger | MC Donels | Rs.60 |
+| Burger | MCD | Rs.60 |
 | chicken Biriyani | Paradise | Rs.500 |
-| eg Biriyani | awarchi RTC X-roads | Rs.250 |
+| Veg Biriyani | awarchi RTC X-roads | Rs.250 |
 
 ---
 
