@@ -41,4 +41,13 @@ One of the big reasons why London is my **favourite city** in the world is becau
 
 ---
 
+### Quotes about Filmaking
+
+> “The most honest form of filmmaking is to make a film for yourself.” - *Nikhil K V*
+
+> “Everything about filmmaking tries to distract you from that first fine rapturous vision you have of the film.” - *Ted Kotcheff*.
+
+---
+
+
 
