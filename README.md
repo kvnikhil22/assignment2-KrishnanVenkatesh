@@ -49,5 +49,50 @@ One of the big reasons why London is my **favourite city** in the world is becau
 
 ---
 
+### Algorithm
+
+> Bipartite graph can be used in the medical field in the detection of lung cancer, throat cancer etc.
+
+> Used in search advertising and e-commerce for similarity ranking.
+
+> Predict movie preferences of a person.
+
+> Stable marriage6 and other matching problems.
+
+[Link for the source](https://www.educative.io/edpresso/what-is-a-bipartite-graph)
+
+```
+int n;
+vector<vector<int>> adj;
+
+vector<int> side(n, -1);
+bool is_bipartite = true;
+queue<int> q;
+for (int st = 0; st < n; ++st) {
+    if (side[st] == -1) {
+        q.push(st);
+        side[st] = 0;
+        while (!q.empty()) {
+            int v = q.front();
+            q.pop();
+            for (int u : adj[v]) {
+                if (side[u] == -1) {
+                    side[u] = side[v] ^ 1;
+                    q.push(u);
+                } else {
+                    is_bipartite &= side[u] != side[v];
+                }
+            }
+        }
+    }
+}
+
+cout << (is_bipartite ? "YES" : "NO") << endl;
+
+```
+
+[Link for the algorithm source code](https://cp-algorithms.com/graph/bipartite-check.html)
+
+
 
 
